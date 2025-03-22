@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sidrap2pslot.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+sidrap2pslot.com	TRUE	/	FALSE	1999999999	PHPSESSID	361c50da9aa7681136eced3ba1ae66fa
+
